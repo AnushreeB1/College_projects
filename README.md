@@ -1,4 +1,4 @@
 # College_projects
 This is the college project.
 <br>
-Author - AnushreeB
+Author - AnushreeB (Anushree Bhat)
